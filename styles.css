@@ -1,0 +1,18 @@
+* {
+    background-color: #f1e8b5;
+}
+
+.food-title {
+    color: #ff6c0a;
+    font-family: Verdana, sans-serif;
+    /* hmmmm I think Verdana is not on Linux?  */
+}
+
+h2 {
+    background-color: #fabe97;
+}
+
+.main-list {
+    font-size: 26px;
+    color: #fc3706;
+}
