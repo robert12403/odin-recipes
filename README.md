@@ -4,6 +4,7 @@ Version 2
 -added this versions systems in the README
 -started using lines in here
 -hm I think there are some more beautiful ways to make READMEs on Github maybe I will look into that sometime. Probably.
+-BRO why is my README looking so horrible on Github! Eh probably I will learn how to do it someday.
 
 Version 1
 =========
